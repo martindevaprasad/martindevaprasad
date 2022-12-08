@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Campuzone**
 
-- 🌱 I’m currently learning **MERN stack, Golang**
+- 🌱 I’m currently learning **MERN stack**
 
 - 💬 Ask me about **react , typescript**
 
